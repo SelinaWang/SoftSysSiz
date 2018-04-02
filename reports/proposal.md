@@ -5,11 +5,11 @@
 
 ## Project Goals
 
-The goal of our project is explore the C stack vulnerabilities and smashing the C stack for fun (and maybe profit). The lower bound of our project is complete all the exercises in this cyber security guide and gain a good understanding of the buffer overflow vulnerabilities. Our stretch goals include looking into some common cyber security tools that are listed on the guide.
+The goal of our project is explore the C stack vulnerabilities and smashing the C stack for fun (and maybe profit). The lower bound of our project is to complete all the exercises in this cyber security guide and gain a good understanding of the buffer overflow vulnerabilities. Our stretch goals include looking into some common cyber security tools that are listed on the guide.
 
 ## Learning Goals
 
-Our learning goals include learning C more intimately especially the C stack. We also hope to tap our feet into the wild world of cyber security and how attacks can be created and addressed.
+Our learning goals include learning C more intimately, especially the C stack. We also hope to tap into the wild world of cyber security and how attacks can be created and addressed.
 
 ## Resources
 
