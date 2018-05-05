@@ -41,3 +41,9 @@ void main() {
 //    0x000000000043e87d <+13>:	jae    0x4441c0 <__syscall_error>
 //    0x000000000043e883 <+19>:	retq   
 // End of assembler dump.
+
+
+// if the execve() call fails for some reason?  The program will
+// continue fetching instructions from the stack, which may contain random data!
+// The program will most likely core dump.  
+// We want the program to exit cleanly if the execve syscall fails. (exit.c)
