@@ -40,7 +40,7 @@ main:
 	movq	%rsp, %rbp
 	.cfi_def_cfa_register 6
 	movl	$3, %edx
-	movl	$2, %esi 
+	movl	$2, %esi
 	movl	$1, %edi
 	call	function
 	nop
